@@ -1,4 +1,5 @@
-![](https://revive.today/wp-content/uploads/2017/05/cropped-header.jpg)
+![A SNES remote propped up against a Raspberry Pi](https://revive.today/wp-content/uploads/2017/05/cropped-header.jpg)
+
 # ReviveToday
 Code developed for the [ReviveToday][rt] site is always open source.
 
