@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/780143738001690625/1640264419/600x200" alt="Ross and Joey from Friends sitting on a couch playing on a PlayStation 1 out of view" />
+  <img src="/profile/banner.jpg" alt="Ross and Joey from Friends sitting on a couch playing on a PlayStation 1 out of view" />
 </p>
 <h1 align="center">🕹️❤️ ReviveToday</h1>
 <p align="center">
